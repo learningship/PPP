@@ -1,0 +1,9 @@
+data1 = importdata('sat_data.txt');
+data = unique(data1,'rows');
+sat2 = data(1:40,:);
+sat5 = data(101:40,:);
+sat13 = data(703:742,:);
+sat15 = data(1094:1133,:);
+sat21 = data(1891:1930,:);
+sat29 = data(2707:2746,:);
+sat30 = data(2893:2942,:);

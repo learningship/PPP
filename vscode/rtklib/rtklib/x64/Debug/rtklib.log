@@ -1,0 +1,90 @@
+﻿  main.c
+d:\mycode\vscode\rtklib\rtklib\main.c(21): fatal error C1083: 无法打开包括文件: “rtklib.h”: No such file or directory
+  process.c
+  convgpx.c
+d:\mycode\vscode\rtklib\rtklib\src\rtklib.h(46): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  convkml.c
+d:\mycode\vscode\rtklib\rtklib\src\rtklib.h(46): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  convrnx.c
+d:\mycode\vscode\rtklib\rtklib\src\rtklib.h(46): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  datum.c
+d:\mycode\vscode\rtklib\rtklib\src\rtklib.h(46): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  download.c
+d:\mycode\vscode\rtklib\rtklib\src\rtklib.h(46): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  ephemeris.c
+d:\mycode\vscode\rtklib\rtklib\src\rtklib.h(46): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  geoid.c
+d:\mycode\vscode\rtklib\rtklib\src\rtklib.h(46): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  gis.c
+d:\mycode\vscode\rtklib\rtklib\src\rtklib.h(46): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  ionex.c
+d:\mycode\vscode\rtklib\rtklib\src\rtklib.h(46): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  lambda.c
+d:\mycode\vscode\rtklib\rtklib\src\rtklib.h(46): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  options.c
+d:\mycode\vscode\rtklib\rtklib\src\rtklib.h(46): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  pntpos.c
+d:\mycode\vscode\rtklib\rtklib\src\rtklib.h(46): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  postpos.c
+d:\mycode\vscode\rtklib\rtklib\src\rtklib.h(46): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  ppp.c
+d:\mycode\vscode\rtklib\rtklib\src\rtklib.h(46): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  ppp_ar.c
+d:\mycode\vscode\rtklib\rtklib\src\rtklib.h(46): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  preceph.c
+d:\mycode\vscode\rtklib\rtklib\src\rtklib.h(46): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  rcvraw.c
+d:\mycode\vscode\rtklib\rtklib\src\rtklib.h(46): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  binex.c
+d:\mycode\vscode\rtklib\rtklib\src\rcv\binex.c(34): fatal error C1083: 无法打开包括文件: “rtklib.h”: No such file or directory
+  正在生成代码...
+  正在编译...
+  crescent.c
+d:\mycode\vscode\rtklib\rtklib\src\rcv\crescent.c(31): fatal error C1083: 无法打开包括文件: “rtklib.h”: No such file or directory
+  javad.c
+d:\mycode\vscode\rtklib\rtklib\src\rcv\javad.c(55): fatal error C1083: 无法打开包括文件: “rtklib.h”: No such file or directory
+  novatel.c
+d:\mycode\vscode\rtklib\rtklib\src\rcv\novatel.c(77): fatal error C1083: 无法打开包括文件: “rtklib.h”: No such file or directory
+  nvs.c
+d:\mycode\vscode\rtklib\rtklib\src\rcv\nvs.c(24): fatal error C1083: 无法打开包括文件: “rtklib.h”: No such file or directory
+  rt17.c
+d:\mycode\vscode\rtklib\rtklib\src\rcv\rt17.c(248): fatal error C1083: 无法打开包括文件: “rtklib.h”: No such file or directory
+  septentrio.c
+d:\mycode\vscode\rtklib\rtklib\src\rcv\septentrio.c(40): fatal error C1083: 无法打开包括文件: “rtklib.h”: No such file or directory
+  skytraq.c
+d:\mycode\vscode\rtklib\rtklib\src\rcv\skytraq.c(44): fatal error C1083: 无法打开包括文件: “rtklib.h”: No such file or directory
+  ss2.c
+d:\mycode\vscode\rtklib\rtklib\src\rcv\ss2.c(19): fatal error C1083: 无法打开包括文件: “rtklib.h”: No such file or directory
+  ublox.c
+d:\mycode\vscode\rtklib\rtklib\src\rcv\ublox.c(79): fatal error C1083: 无法打开包括文件: “rtklib.h”: No such file or directory
+  rinex.c
+d:\mycode\vscode\rtklib\rtklib\src\rtklib.h(46): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  rtcm.c
+d:\mycode\vscode\rtklib\rtklib\src\rtklib.h(46): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  rtcm2.c
+d:\mycode\vscode\rtklib\rtklib\src\rtklib.h(46): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  rtcm3.c
+d:\mycode\vscode\rtklib\rtklib\src\rtklib.h(46): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  rtcm3e.c
+d:\mycode\vscode\rtklib\rtklib\src\rtklib.h(46): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  rtkcmn.c
+d:\mycode\vscode\rtklib\rtklib\src\rtkcmn.c(151): fatal error C1083: 无法打开包括文件: “dirent.h”: No such file or directory
+  rtkpos.c
+d:\mycode\vscode\rtklib\rtklib\src\rtklib.h(46): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  rtksvr.c
+d:\mycode\vscode\rtklib\rtklib\src\rtklib.h(46): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  sbas.c
+d:\mycode\vscode\rtklib\rtklib\src\rtklib.h(46): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  solution.c
+d:\mycode\vscode\rtklib\rtklib\src\rtklib.h(46): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  stream.c
+d:\mycode\vscode\rtklib\rtklib\src\rtklib.h(46): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  正在生成代码...
+  正在编译...
+  streamsvr.c
+d:\mycode\vscode\rtklib\rtklib\src\rtklib.h(46): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  tides.c
+d:\mycode\vscode\rtklib\rtklib\src\rtklib.h(46): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  tle.c
+d:\mycode\vscode\rtklib\rtklib\src\rtklib.h(46): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  正在生成代码...

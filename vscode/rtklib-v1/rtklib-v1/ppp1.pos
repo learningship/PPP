@@ -1,0 +1,22 @@
+% program   : RTKLIB ver.2.4.3
+% inp file  : D:\vscode\rtklib-v1\rtklib-v1\new data\bjfs0100.19n
+% inp file  : D:\vscode\rtklib-v1\rtklib-v1\new data\bjfs0100.19o
+% inp file  : D:\vscode\rtklib-v1\rtklib-v1\new data\igs20354.clk
+% inp file  : D:\vscode\rtklib-v1\rtklib-v1\new data\igs20354.sp3
+% inp file  : D:\vscode\rtklib-v1\rtklib-v1\new data\igsg0100.19i
+% inp file  : D:\vscode\rtklib-v1\rtklib-v1\new data\igs20427.erp
+% inp file  : D:\vscode\rtklib-v1\rtklib-v1\new data\igs14.atx
+% obs start : 2019/01/10 00:10:00.0 GPST (week2035 346200.0s)
+% obs end   : 2019/01/10 03:30:00.0 GPST (week2035 358200.0s)
+% pos mode  : PPP Static
+% solution  : Forward
+% elev mask : 15.0 deg
+% dynamics  : off
+% tidecorr  : off
+% tropo opt : Estimate ZTD
+% ephemeris : Precise
+% navi sys  : GPS
+% antenna1  :                       ( 0.0000  0.0000  0.0000)
+%
+% (x/y/z-ecef=WGS84,Q=1:fix,2:float,3:sbas,4:dgps,5:single,6:ppp,ns=# of satellites)
+%  GPST                      x-ecef(m)      y-ecef(m)      z-ecef(m)   Q  ns   sdx(m)   sdy(m)   sdz(m)  sdxy(m)  sdyz(m)  sdzx(m) age(s)  ratio

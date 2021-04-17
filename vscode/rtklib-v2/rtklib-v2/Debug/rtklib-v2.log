@@ -1,0 +1,4 @@
+﻿  lambda.c
+d:\mycode\vscode\rtklib-v2\rtklib-v2\src\rtklib.h(159): warning C4005: “MINPRNQZS_S”: 宏重定义
+  d:\mycode\vscode\rtklib-v2\rtklib-v2\src\lambda.c: note: 参见“MINPRNQZS_S”的前一个定义
+  rtklib-v2.vcxproj -> D:\mycode\vscode\rtklib-v2\Debug\rtklib-v2.exe
